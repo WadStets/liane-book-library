@@ -94,12 +94,4 @@ This application is fully containerized and ready for cloud deployment via **Doc
 2. **Environment Variables:** For security in cloud environments, the app will prioritize environment variables over the local `connect.py`. Configure these in your dashboard (Coolify, etc.):
    - `MYSQL_HOST`, `MYSQL_DATABASE`, `MYSQL_USER`, `MYSQL_PASSWORD`, `MYSQL_PORT`
 
----
 
-## 🔮 The Master Plan (Coming Soon™)
-
-This project has successfully evolved from a raw SQL foundation into a true platform. But we're not done yet. Upcoming features include:
-
-*   **Automated Guilt Trips:** One-click integration to send increasingly passive-aggressive reminder emails to people holding your books hostage.
-*   **Webcam Barcode Scanning:** Stop typing ISBNs! Just wave a book at your laptop camera, and *boom*—it's cataloged.
-*   **Borrower Risk Assessment:** Advanced analytics to determine the exact probability of you ever seeing a book again based on the borrower's historical return patterns.
